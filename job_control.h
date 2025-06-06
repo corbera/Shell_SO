@@ -11,6 +11,7 @@ Some code adapted from "Fundamentos de Sistemas Operativos", Silberschatz et al.
 
 #ifndef _JOB_CONTROL_H
 #define _JOB_CONTROL_H
+#define _GNU_SOURCE
 
 #include <stdio.h>
 #include <stdlib.h>
